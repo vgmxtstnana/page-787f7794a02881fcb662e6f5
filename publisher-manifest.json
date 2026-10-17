@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "1b95c9ddf64e2ada676ff0e3",
+  "owner": "vgmxtstnana",
+  "repo": "page-787f7794a02881fcb662e6f5",
+  "title": "MESL",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "787f7794a02881fcb662e6f5",
+      "a": "MESL",
+      "b": "",
+      "entity": "MESL",
+      "brand": "MESL",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e8a7e5eb71a227f69bf72bf9403e42b0d1b4cd92f84af1f3eb4893c4914808b9",
+      "content": {
+        "keyword1": "MESL",
+        "keyword2": "",
+        "primary_entity": "MESL",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "MESL 提供 IPLC 专线、原生流媒体解锁与企业级路由方案，按月或按年订阅，支持多设备并发，工单优先响应。",
+          "AI_DESCRIPTION": "MESL 提供 IPLC 专线、原生流媒体解锁与企业级路由方案，按月或按年订阅，支持多设备并发，工单优先响应。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\n:root {--bg: #f4f4f6;--fg: #1a1a22;--accent: #7b3ff2;--accent-soft: #efe8ff;--line: #b9b9c6;--muted: #6a6a78;--paper: #ffffff}\nhtml {-webkit-text-size-adjust: 100%}\nbody {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif;background: var(--bg);color: var(--fg);line-height: 1.65;font-size: 16px}\na {color: var(--accent);text-decoration: none;border-bottom: 1px solid currentColor}\na:hover {opacity: 0.75}\n.hero {background: var(--paper);border-bottom: 1px solid var(--line);padding: 4rem 1.25rem 3.5rem;text-align: center;overflow: hidden}\n.hero h1 {font-size: clamp(4rem, 22vw, 17rem);font-weight: 900;letter-spacing: -0.04em;line-height: 0.85;color: var(--fg);margin: 0 auto 1.5rem;max-width: 100%;word-break: break-all}\n.hero .lede {max-width: 40rem;margin: 0 auto 2rem;font-size: 1.05rem;color: var(--muted)}\n.hero .quick-links {display: flex;flex-wrap: wrap;gap: 0.75rem 1.5rem;justify-content: center;font-size: 0.95rem}\n.hero .quick-links a {border: 1px solid var(--line);padding: 0.5rem 1rem;color: var(--fg);border-bottom: 1px solid var(--line)}\n.hero .quick-links a:hover {border-color: var(--accent);color: var(--accent);opacity: 1}\n\n.section {max-width: 880px;margin: 0 auto;padding: 3rem 1.25rem}\n.section h2 {font-size: 1.4rem;margin-bottom: 1.25rem;border-left: 4px solid var(--accent);padding-left: 0.75rem}\n.section p {margin-bottom: 1rem;color: #333}\n.section ul {padding-left: 1.25rem;margin-bottom: 1rem}\n.section li {margin-bottom: 0.35rem}\n\n.intro {background: var(--paper);border-bottom: 1px solid var(--line)}\n\n.plans {background: var(--bg)}\n.plan {background: var(--paper);border: 2px dashed var(--line);border-radius: 10px;padding: 1.5rem 1.5rem 1.75rem;margin-bottom: 1.5rem;position: relative}\n.plan.featured {border-color: var(--accent);background: linear-gradient(180deg, var(--accent-soft) 0%, var(--paper) 40%)}\n.plan .tag {position: absolute;top: -0.75rem;right: 1rem;background: var(--accent);color: #fff;font-size: 0.75rem;padding: 0.25rem 0.65rem;border-radius: 999px;letter-spacing: 0.05em}\n.plan h3 {font-size: 1.25rem;margin-bottom: 0.25rem}\n.plan .price {font-size: 1.75rem;font-weight: 700;color: var(--accent);margin: 0.5rem 0}\n.plan .annual {color: var(--muted);font-size: 0.9rem;margin-bottom: 1rem}\n.plan ul {list-style: none;padding: 0;margin: 0}\n.plan li {padding: 0.4rem 0 0.4rem 1.5rem;border-bottom: 1px dotted #e0e0e8;position: relative}\n.plan li::before {content: \"✓\";position: absolute;left: 0;color: var(--accent);font-weight: 700}\n.plan li:last-child {border-bottom: none}\n\n.usage {background: var(--paper);border-bottom: 1px solid var(--line)}\n.usage .step {border: 2px dashed var(--line);border-radius: 8px;padding: 1rem 1.25rem;margin-bottom: 1rem;display: flex;gap: 1rem;align-items: flex-start}\n.usage .step .num {font-size: 1.5rem;font-weight: 800;color: var(--accent);min-width: 2rem}\n.usage .step .text h4 {font-size: 1.05rem;margin-bottom: 0.25rem}\n.usage .step .text p {margin: 0;color: var(--muted);font-size: 0.95rem}\n\n.faq {background: var(--bg)}\n.faq details {background: var(--paper);border: 2px dashed var(--line);border-radius: 8px;padding: 1rem 1.25rem;margin-bottom: 1rem}\n.faq details[open] {border-color: var(--accent)}\n.faq summary {font-weight: 600;cursor: pointer;list-style: none;position: relative;padding-right: 1.5rem}\n.faq summary::-webkit-details-marker {display: none}\n.faq summary::after {content: \"+\";position: absolute;right: 0;color: var(--accent);font-weight: 700;font-size: 1.2rem}\n.faq details[open] summary::after {content: \"−\"}\n.faq .answer {margin-top: 0.75rem;color: #333}\n\n.clients {background: var(--paper);border-top: 1px solid var(--line)}\n.clients p {color: var(--muted)}\n.clients .note {border: 2px dashed var(--line);border-radius: 8px;padding: 1rem 1.25rem;margin-top: 1rem;color: var(--muted);font-size: 0.95rem}\n\n.footer {background: #15151c;color: #aaa;padding: 2.5rem 1.25rem;text-align: center;font-size: 0.85rem}\n.footer a {color: var(--accent);border: none}\n.footer .brand {font-size: 1.5rem;font-weight: 800;color: #fff;margin-bottom: 0.5rem;letter-spacing: -0.02em}\n\n@media (max-width: 600px) {\n  .hero {padding: 3rem 1rem 2.5rem}\n  .usage .step {flex-direction: column;gap: 0.25rem}\n}\n</style><main>\n\n<header class=\"hero\">\n  <h1>MESL</h1>\n  <p class=\"lede\">面向多终端的专线中转与流媒体路由服务。按月订阅，即开即用，工单优先响应。</p>\n  <nav class=\"quick-links\" aria-label=\"页面快速跳转\">\n    <a href=\"#about\">服务说明</a>\n    <a href=\"#plans\">订阅方案</a>\n    <a href=\"#usage\">使用步骤</a>\n    <a href=\"#faq\">常见问题</a>\n    <a href=\"#clients\">客户端</a>\n  </nav>\n</header>\n\n<section id=\"about\" class=\"section intro\">\n  <h2>MESL 提供什么</h2>\n  <p>MESL 是一项网络中转与路由调度服务，主要解决跨地区访问延迟、流媒体区域限制以及多设备并发上网的需求。</p>\n  <ul>\n    <li><strong>IPLC 专线中转</strong>：不走公网出口，降低高峰期丢包与抖动。</li>\n    <li><strong>原生流媒体解锁</strong>：主流平台区域内容按节点自动匹配。</li>\n    <li><strong>多设备并发</strong>：单账号支持 3 至 20 台设备同时连接。</li>\n    <li><strong>企业定制路由</strong>：团队版可按业务需求配置专属出口。</li>\n  </ul>\n  <p>所有线路均为自有节点池，不经过第三方代理转发，确保路由可追溯。</p>\n</section>\n\n<section id=\"plans\" class=\"section plans\">\n  <h2>订阅方案</h2>\n  <p>以下方案均可按月或按年订阅，年付享有折扣。流量每月重置，不累积结转。</p>\n\n  <article class=\"plan\">\n    <h3>基础版</h3>\n    <div class=\"price\">¥15/月</div>\n    <div class=\"annual\">按年付仅需 ¥150/年</div>\n    <ul>\n      <li>每月 100GB 极速流量</li>\n      <li>支持 3 台设备同时在线</li>\n      <li>解锁基础流媒体</li>\n      <li>普通线路节点池</li>\n    </ul>\n  </article>\n\n  <article class=\"plan featured\">\n    <span class=\"tag\">推荐</span>\n    <h3>旗舰版</h3>\n    <div class=\"price\">¥35/月</div>\n    <div class=\"annual\">按年付仅需 ¥350/年</div>\n    <ul>\n      <li>每月 300GB 极速流量</li>\n      <li>支持 5 台设备同时在线</li>\n      <li>全节点原生流媒体解锁</li>\n      <li>IPLC 专线游戏加速优化</li>\n      <li>7x24 优先工单支持</li>\n    </ul>\n  </article>\n\n  <article class=\"plan\">\n    <h3>团队版</h3>\n    <div class=\"price\">¥85/月</div>\n    <div class=\"annual\">按年付仅需 ¥850/年</div>\n    <ul>\n      <li>每月 1000GB 极速流量</li>\n      <li>支持 20 台设备同时在线</li>\n      <li>VIP 专属高带宽节点</li>\n      <li>支持企业定制路由</li>\n      <li>专属客户经理服务</li>\n    </ul>\n  </article>\n</section>\n\n<section id=\"usage\" class=\"section usage\">\n  <h2>使用步骤</h2>\n  <p>开通订阅后，按以下顺序完成首次配置。</p>\n\n  <div class=\"step\">\n    <span class=\"num\">01</span>\n    <div class=\"text\">\n      <h4>选择方案并完成订阅</h4>\n      <p>根据设备数量与流量需求选择对应方案，支付后账号即时开通。</p>\n    </div>\n  </div>\n\n  <div class=\"step\">\n    <span class=\"num\">02</span>\n    <div class=\"text\">\n      <h4>获取订阅链接</h4>\n      <p>登录用户中心，复制专属订阅地址，用于客户端自动导入节点。</p>\n    </div>\n  </div>\n\n  <div class=\"step\">\n    <span class=\"num\">03</span>\n    <div class=\"text\">\n      <h4>导入客户端并连接</h4>\n      <p>在支持的客户端中粘贴订阅地址，更新节点列表后选择目标地区即可连接。</p>\n    </div>\n  </div>\n\n  <div class=\"step\">\n    <span class=\"num\">04</span>\n    <div class=\"text\">\n      <h4>按需切换节点</h4>\n      <p>如遇流媒体区域限制，切换至对应原生解锁节点；游戏加速请选择带专线标记的节点。</p>\n    </div>\n  </div>\n</section>\n\n<section id=\"faq\" class=\"section faq\">\n  <h2>常见问题</h2>\n\n  <details>\n    <summary>流量是否可以累积到下月？</summary>\n    <div class=\"answer\">不可以。每月流量配额在账期结束时重置，未使用部分不结转、不退款。</div>\n  </details>\n\n  <details>\n    <summary>更换设备需要额外付费吗？</summary>\n    <div class=\"answer\">不需要。在同一账号允许的设备数量范围内，自由更换设备不会产生额外费用，但超出并发上限会提示下线。</div>\n  </details>\n\n  <details>\n    <summary>年付订阅中途可以退款吗？</summary>\n    <div class=\"answer\">年付订阅支持 7 天内无理由退款，超过 7 天后不予退款，但可继续使用至到期。</div>\n  </details>\n\n  <details>\n    <summary>流媒体解锁支持哪些平台？</summary>\n    <div class=\"answer\">基础版支持常见流媒体平台的基础区域内容；旗舰版与团队版提供全节点原生解锁，覆盖主流区域流媒体服务。</div>\n  </details>\n\n  <details>\n    <summary>团队版的企业定制路由如何申请？</summary>\n    <div class=\"answer\">开通团队版后，联系专属客户经理说明业务场景与目标出口，由技术团队评估后配置专属路由规则。</div>\n  </details>\n\n  <details>\n    <summary>节点速度不理想如何排查？</summary>\n    <div class=\"answer\">建议先切换同区域其他节点测试；若持续异常，请提交工单并附上节点 ID 与本地网络环境，技术团队将协助排查。</div>\n  </details>\n</section>\n\n<section id=\"clients\" class=\"section clients\">\n  <h2>客户端</h2>\n  <p>MESL 采用通用订阅协议，兼容主流第三方客户端。选择对应平台的客户端，导入用户中心的订阅地址即可使用。</p>\n  <div class=\"note\">\n    官方未单独提供专属客户端程序。请在各平台官方应用商店或可信渠道下载通用客户端，导入 MESL 订阅链接完成配置。\n  </div>\n</section>\n\n</main>\n\n<footer class=\"footer\">\n  <div class=\"brand\">MESL</div>\n  <p>本页面内容仅供订阅参考，不构成任何法律或投资建议。</p>\n  <p><a href=\"#about\">返回服务说明</a> · <a href=\"#plans\">查看方案</a> · <a href=\"#faq\">常见问题</a></p>\n</footer>",
+          "hash": "163685d35aa000d902f45da807ea676f8904a57df93d6f0f6a8cfa3067fbc96e",
+          "seo": {
+            "title": "MESL · 专线路由与流媒体加速服务",
+            "keywords": "MESL,专线加速,流媒体解锁,IPLC,网络路由,代理服务",
+            "description": "MESL 提供 IPLC 专线、原生流媒体解锁与企业级路由方案，按月或按年订阅，支持多设备并发，工单优先响应。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "1073",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "maofaner.cn",
+    "host": "p-468472ed50.maofaner.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "e3eae2da7f53be538790b691ab6a3fc20762efaa82e169fbf33000514c7cf586",
+    "sitemap.xml": "d73faa3ac13cf728399f55a2d77e76221678ac80720258fc07f56b67209cab9d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bb881b6bcf0aeff154cfde7ce5ebb51f8102ebf88d66e6d48bff21fe2b068de7",
+    "robots.txt": "d96073c0cefcfa0f5ef312cb436e436341294cf9d0dae0f4ce1b6bc617f7a8a7",
+    "e1d3ef26f38999a0e220ff1c496002d7.txt": "b6c754b8152232a3070f3893ec9763a7d7b6718aca4ea0cd4347c2d8eb36df93"
+  },
+  "revision": "eae94d279e5c1c5fa6c431983a16747f2b5ce432648f5765f683f97509b5a909"
+}

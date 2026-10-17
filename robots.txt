@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-468472ed50.maofaner.cn/sitemap.xml
